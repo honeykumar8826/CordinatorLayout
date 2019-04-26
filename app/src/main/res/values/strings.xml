@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoordinatorLayout</string>
+    <string name="click_here">click here</string>
+    <string name="collapse_toolBar">collapsingToolBar</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_course">Student Course</string>
+</resources>
